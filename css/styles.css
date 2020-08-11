@@ -1,4 +1,4 @@
-.walrus-showing {
+#walrus-showing {
   display: none;
 }
 
@@ -8,5 +8,18 @@
 }
 
 .clickable:hover {
+  text-decoration: underline;
+}
+
+#emu-showing {
+  display:none;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc
+}
+
+.clickable1:hover {
   text-decoration: underline;
 }
