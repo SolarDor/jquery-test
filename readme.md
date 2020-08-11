@@ -1,4 +1,4 @@
-JQuery Test
+JSQuery Test
 
 #### _Webpage using slides, toggles, and fades. 08.11.2020_
 
