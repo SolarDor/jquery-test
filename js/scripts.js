@@ -22,8 +22,8 @@ $(document).click(function(){
   $("#emu-showing").fadeToggle("slow");
 });
 
-$("#").click(function(){
-  $("#").slideUp();
+$(document).click(function(){
+  $(".slide").slideUp();
 });
 
 $("#flip").click(function(){
