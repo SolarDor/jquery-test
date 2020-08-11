@@ -1,4 +1,4 @@
-JSQuery Test
+JQuery Test
 
 #### _Webpage using slides, toggles, and fades. 08.11.2020_
 
@@ -6,7 +6,7 @@ JSQuery Test
 
 ## Description
 
-_This application is an HTML webpage that utilizes CSS Stylings and JSQuery to practice show/hide, fades, and slides_
+_This application is an HTML webpage that utilizes CSS Stylings and JQuery to practice show/hide, fades, and slides_
 
 ## Setup/Installation Requirements
 
@@ -23,7 +23,7 @@ _For support, contact Cameron Will <cellardoorsolar@aol.com>_
 
 ## Technologies Used
 
-_HTML, CSS, JS, JSQuery_
+_HTML, CSS, JS, JQuery_
 
 ### License
 
